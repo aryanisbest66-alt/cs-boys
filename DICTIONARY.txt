@@ -1,0 +1,3 @@
+repeat ask a user to enter a team game and how many games the team has won and how many games has team won and lost 
+store thisinformation in a dictionary where the keys are the team name and the valus are the list of the form using
+the dictionary give above allow te user to print team name and winning percentage. using dictnary create alist whose entries are the team number of wins of each team using a dictionary create  a list of a 

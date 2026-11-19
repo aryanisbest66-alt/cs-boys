@@ -1,0 +1,7 @@
+write a program to take rollno,name and percentage of marks for n students of class 10.
+write a program to
+1.accepts the details of 10 students and store it in dictionary
+2. search the details of particular students on the basis of rol no
+3. display the result of all students
+4. find the topper aong tem
+5. find the subjects topper amng them
